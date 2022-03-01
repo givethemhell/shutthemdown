@@ -1,0 +1,4 @@
+FROM mcr.microsoft.com/powershell:lts-arm32v7-ubuntu-bionic	
+WORKDIR /app
+COPY . /app
+CMD [ "pwsh", "script.ps1"]
