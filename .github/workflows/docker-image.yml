@@ -42,5 +42,5 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: givethemhell/shutthemdown:latest
+          tags: givethemhell/shutthemdown:armv7
           file: Dockerfile.armv7
