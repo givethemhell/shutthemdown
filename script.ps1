@@ -42,7 +42,8 @@
 'https://www.fsb.ru',
 'https://savelife.net.ua/',
 'https://www.m24.ru/',
-'https://www.interfax.ru'
+'https://www.interfax.ru',
+'https://rusvesna.ru'
 )
 
 
