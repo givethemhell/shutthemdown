@@ -40,7 +40,7 @@
 'https://currency.com/ru',
 'https://www.ria.ru',
 'https://www.fsb.ru',
-'https://savelife.net.ua/',
+'https://savelife.net.ua/'
 )
 
 
