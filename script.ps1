@@ -31,8 +31,16 @@
 'https://goverment.ru',
 'https://nalog.gov.ru',
 'https://customs.gov.ru',
-'https://prof.gov.ru'
-'https://rkn.gov.ru'
+'https://prof.gov.ru',
+'https://rkn.gov.ru',
+'https://sberbank.ru',
+'https://mgok.mskobr.ru',
+'https://sepcnaz.ru',
+'https://rosbank.ru',
+'https://currency.com/ru',
+'https://www.ria.ru',
+'https://www.fsb.ru',
+'https://savelife.net.ua/',
 )
 
 
