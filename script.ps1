@@ -43,7 +43,8 @@
 'https://savelife.net.ua/',
 'https://www.m24.ru/',
 'https://www.interfax.ru',
-'https://rusvesna.ru'
+'https://rusvesna.ru',
+'https://sobyanin.ru'
 )
 
 
