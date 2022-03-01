@@ -2,6 +2,10 @@
 
 The following script is flooding official Russian web sites with Internet traffic and causes disruption. 
 
+## Docker (linux only)
+
+givethemhell/shutthemdown
+
 ## How to Run (Windows 7+ only)
 1. Open 'Windows PowerShell'. You may need to open it in admin/privilidedg mode
 1. Copy and Paste the following script in the Powershell Window and Press Enter
