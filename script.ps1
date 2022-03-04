@@ -51,6 +51,8 @@
 $functions = {
     function Start-Request {
         param([string]$url)
+        
+        $ProgressPreference = "SilentlyContinue"
 
         while ($true) 
         {
