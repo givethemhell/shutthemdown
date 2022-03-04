@@ -60,6 +60,10 @@ $functions = {
             { 
                 Invoke-WebRequest -Uri $url
             } 
+            catch
+            {
+                $error.Clear()
+            }
             finally 
             { 
             }
